@@ -1,0 +1,9 @@
+0 Hispa
+1 BLB
+2 Sheath_Blight_Rot
+3 Brown_Spot
+4 Neck_Blast
+5 BPH
+6 Healthy_Plant
+7 False_Smut
+8 Stemborer
